@@ -1,0 +1,16 @@
+title: Hypothetical Legal
+description: Policies and terms for Hypothetical apps
+url: https://apps.hypothetical.ink
+theme: null
+remote_theme: pages-themes/cayman@v0.2.0
+permalink: /:path/
+search_enabled: true
+color_scheme: light
+nav_external_links:
+  - title: Apps
+    url: https://apps.hypothetical.ink
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  
