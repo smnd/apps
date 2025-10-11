@@ -4,4 +4,4 @@ title: Legal Home
 nav_order: 1
 ---
 
-- [niftyscan](/niftyscan/)
+- [niftyscan](apps/niftyscan/)
